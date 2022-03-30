@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="148239" started-at="2022-03-30T11:53:05 IST" finished-at="2022-03-30T11:55:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="148239" started-at="2022-03-30T11:53:05 IST" finished-at="2022-03-30T11:55:33 IST">
+      <class name="zero.TFP">
+        <test-method status="PASS" signature="init()[pri:0, instance:zero.TFP@5e57643e]" name="init" is-config="true" duration-ms="124484" started-at="2022-03-30T11:53:05 IST" finished-at="2022-03-30T11:55:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="login()[pri:0, instance:zero.TFP@5e57643e]" name="login" duration-ms="14543" started-at="2022-03-30T11:55:10 IST" finished-at="2022-03-30T11:55:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:zero.TFP@5e57643e]" name="logout" duration-ms="1120" started-at="2022-03-30T11:55:24 IST" finished-at="2022-03-30T11:55:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:zero.TFP@5e57643e]" name="quit" is-config="true" duration-ms="7808" started-at="2022-03-30T11:55:26 IST" finished-at="2022-03-30T11:55:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- zero.TFP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
